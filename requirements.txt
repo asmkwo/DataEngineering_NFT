@@ -1,0 +1,16 @@
+numpy
+pandas
+flask
+dash
+dash_bootstrap_components
+python-math
+plotly_express
+requests
+scrapy
+bs4
+urllib3
+datetime
+snscrape
+more-itertools
+pymongo
+jsons
